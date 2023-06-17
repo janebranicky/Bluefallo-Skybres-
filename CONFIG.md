@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+bluefallo-Skybres
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+Bluefallo Skybres
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+vapor distilled content, blocked by paul hamilton
 
 # searchTerms
 
@@ -26,14 +26,14 @@ Cute animals feed
 >
 
 - https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- buffalo and sabres
+- tage
+- jeff and skinner
+- don and granato
+- hockey
 
 # avatar
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](avatar.png)
+![](sabres.png)
