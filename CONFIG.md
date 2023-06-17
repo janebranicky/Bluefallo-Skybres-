@@ -26,10 +26,10 @@ vapor distilled content, blocked by paul hamilton
 >
 
 - https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- buffalo and sabres
+- buffalo sabres
 - tage
-- jeff and skinner
-- don and granato
+- jeff skinner
+- don granato
 - hockey
 
 # avatar
