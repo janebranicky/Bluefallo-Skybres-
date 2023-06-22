@@ -28,7 +28,7 @@ vapor distilled content, blocked by paul hamilton
 - https://bsky.app/profile/lazylazyjane.bsky.social/post/3jumsyxaunz22
 - sabres
 - nhl
-- puck
+- rink
 - granato
 - hockey
 
